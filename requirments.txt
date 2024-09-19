@@ -1,0 +1,12 @@
+colorama
+selenium
+requests
+webdriver-manager
+selenium-wire
+beautifulsoup4
+openai-whisper
+numpy<2
+undetected_chromedriver
+blinker==1.7.0
+auto_py_to_exe
+anti-useragent
